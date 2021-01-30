@@ -24,11 +24,11 @@ with the Application ID you have received and an application password you need t
 ## Starting the Demo
 Open a Command Prompt (CMD) and type:
 ```
-AbbyyOCR.exe <image file> <output file>
+AbbyyOCR.exe <image file / pdf document> <output file>
 ```
 Then press **ENTER**.
  
-**image file**:	Should be a .jpg or .png file which contains text to be recognized.
+**image file / pdf document**:	Should be a .jpg, .png or .pdf file which contains text to be recognized.
 
 **Output file**:	The full path for a new file to be created with the output.
 
