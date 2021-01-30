@@ -17,7 +17,7 @@ Then press **ENTER**.
 
 Example:
 
-![example](https://github.com/haephrati/FBC/blob/main/FBC%20Example.jpg?raw=true) 
+![example](ABBYY Example.jpg?raw=true) 
  
 ## Logging
 The **WriteLogFile()** function is used instead of wprintf() and carries the task of displaying debug messages in the DEBUG version and writing to a log file (in both DEBUG / RELEASE versions). 
