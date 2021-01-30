@@ -39,7 +39,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="ScreenCaptureAndOCR.rc" />
+    <ResourceCompile Include="ABBYY_OCR.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="SG_logo.ico" />

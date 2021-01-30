@@ -44,7 +44,6 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 
 	LPWSTR *szArglist{ NULL };
 	int nArgs;
-	int i;
 
 	StartConsole();
 
