@@ -1,4 +1,4 @@
-[<img src="https://www.youtube.com/watch?v=UwGeNdNocRs" width="100%">](https://www.youtube.com/watch?v=UwGeNdNocRs)
+[![](https://github.com/haephrati/ABBYY-OCR/blob/main/Video%20Img.jpg)](https://youtu.be/UwGeNdNocRs)
 # ABBYY OCR Demo
 ABBYY® Cloud OCR SDK is a web-based document processing service that will enhance your enterprise software systems, SaaS platforms, or your mobile apps with the ability to convert documents and utilize textual information from scans, PDFs, document images, smartphone photos, or screenshots.
 
