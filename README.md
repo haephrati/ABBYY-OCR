@@ -1,8 +1,19 @@
 # ABBYY OCR Demo
+ABBYY® Cloud OCR SDK is a web-based document processing service that will enhance your enterprise software systems, SaaS platforms, or your mobile apps with the ability to convert documents and utilize textual information from scans, PDFs, document images, smartphone photos, or screenshots.
 
 :point_right: ABBYY OCR Open Source code can be found [here](https://github.com/abbyy).
 
 ABBYY OCR Demo is a Command Line based software component created for the purpose of demonstration of the ABBYY OCR SDK using C++ (Visual Studio C++) and LibCurl.
+
+## Before using
+Make sure you have obtained a trial (or commercial) license for [ABBYY Cloud OCR SDK](https://cloud.ocrsdk.com/Account/Register).
+Make sure to replace the following lines:
+
+```
+#define APP_ID			<APP ID>
+#define PASSWORD		<App Password>
+```
+with the Application ID you have received and an application password you need to generate.
 
 ## Starting the Demo
 Open a Command Prompt (CMD) and type:
