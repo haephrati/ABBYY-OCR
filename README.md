@@ -16,7 +16,7 @@ Then press **ENTER**.
 **Output file**:	The full path for a new file to be created with the output.
 
 Example:
-![example](ABBYY Example.jpg) 
+![example](https://github.com/haephrati/ABBYY-OCR/blob/main/ABBYY%20Example.jpg) 
  
 ## Logging
 The **WriteLogFile()** function is used instead of wprintf() and carries the task of displaying debug messages in the DEBUG version and writing to a log file (in both DEBUG / RELEASE versions). 
