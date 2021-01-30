@@ -1,0 +1,79 @@
+﻿30.01.2021 11:29: Welcome to ABBYYOCR.exe
+
+30.01.2021 11:29: Input Image: SimpleImage.png,
+
+
+30.01.2021 11:29: Output File: output.txt
+
+
+30.01.2021 11:29: http_code: 0 res = 26
+
+30.01.2021 11:30: Error: curl_easy_perform() failed: Failed to open/read local data from file/application
+
+30.01.2021 11:30: Welcome to ABBYYOCR.exe
+
+30.01.2021 11:30: Input Image: SimpleImage.png,
+
+
+30.01.2021 11:30: Output File: output.txt
+
+
+30.01.2021 11:31: http_code: 0 res = 26
+
+30.01.2021 11:32: Welcome to ABBYYOCR.exe
+
+30.01.2021 11:32: Input Image: SimpleImage.png,
+
+
+30.01.2021 11:32: Output File: output.txt
+
+
+30.01.2021 11:32: http_code: 0 res = 26
+
+30.01.2021 11:32: Error: curl_easy_perform() failed: Failed to open/read local data from file/application
+
+30.01.2021 11:33: Welcome to ABBYYOCR.exe
+
+30.01.2021 11:33: Input Image: SimpleImage.png,
+
+
+30.01.2021 11:33: Output File: output.txt
+
+
+30.01.2021 11:33: http_code: 0 res = 26
+
+30.01.2021 11:33: Error: curl_easy_perform() failed: Failed to open/read local data from file/application
+
+30.01.2021 11:34: Welcome to ABBYYOCR.exe
+
+30.01.2021 11:34: Input Image: SimpleImage.png
+
+
+30.01.2021 11:34: Output File: output.txt
+
+
+30.01.2021 11:34: http_code: 200 res = 0
+
+30.01.2021 11:34: Task ID : 662b7309-02ae-41a6-9746-cdc0f7190cc7
+
+30.01.2021 11:34: Read Buffer:
+<?xml version="1.0" encoding="utf-8"?><response><task id="662b7309-02ae-41a6-9746-cdc0f7190cc7" registrationTime="2021-01-30T11:34:30Z" statusChangeTime="2021-01-30T11:34:31Z" status="InProgress" filesCount="1" credits="5" estimatedProcessingTime="5" /></response>
+
+30.01.2021 11:34: task_status: InProgress
+
+30.01.2021 11:34: Read Buffer:
+<?xml version="1.0" encoding="utf-8"?><response><task id="662b7309-02ae-41a6-9746-cdc0f7190cc7" registrationTime="2021-01-30T11:34:30Z" statusChangeTime="2021-01-30T11:34:31Z" status="InProgress" filesCount="1" credits="5" estimatedProcessingTime="5" /></response>
+
+30.01.2021 11:34: task_status: InProgress
+
+30.01.2021 11:34: Read Buffer:
+<?xml version="1.0" encoding="utf-8"?><response><task id="662b7309-02ae-41a6-9746-cdc0f7190cc7" registrationTime="2021-01-30T11:34:30Z" statusChangeTime="2021-01-30T11:34:33Z" status="Completed" filesCount="1" credits="5" resultUrl="https://ocrsdkwestus.blob.core.windows.net/files/662b7309-02ae-41a6-9746-cdc0f7190cc7.result?sv=2012-02-12&amp;se=2021-01-30T21%3A00%3A00Z&amp;sr=b&amp;si=downloadResults&amp;sig=auDJQSLyV46XnTYyuNsRioQGcYOaMOGRuTk1LPg0Ylk%3D" /></response>
+
+30.01.2021 11:34: task_status: Completed
+
+30.01.2021 11:34: Downloading File from URL: https://ocrsdkwestus.blob.core.windows.net/files/662b7309-02ae-41a6-9746-cdc0f7190cc7.result?sv=2012-02-12&se=2021-01-30T21%3A00%3A00Z&sr=b&si=downloadResults&sig=auDJQSLyV46XnTYyuNsRioQGcYOaMOGRuTk1LPg0Ylk%3D
+
+30.01.2021 11:34: FILE saved
+
+30.01.2021 11:34: OCR Completed
+

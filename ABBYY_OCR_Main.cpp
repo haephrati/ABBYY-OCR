@@ -143,6 +143,11 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
 			system("pause");
 			exit(0);
 		}
+		if (PathFileExists(szArglist[1]) == FALSE)
+		{
+			WriteLogFile(L"Error: input file '%s' does not exist", szArglist[1]);
+			exit(0);
+		}
 		WriteLogFile(L"Input Image: %ws\n",szArglist[1]);
 		WriteLogFile(L"Output File: %ws\n", szArglist[2]);
 	}

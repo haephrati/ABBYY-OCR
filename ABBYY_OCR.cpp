@@ -17,8 +17,8 @@
 
 
 // Here are the credentials of https://github.com/abbyy/ocrsdk.com :
-#define APP_ID			"<App ID>"
-#define PASSWORD		"<App Password>"
+#define APP_ID			"<Your Application ID>"
+#define PASSWORD		"<Your Application Password"
 
 // These settings are for the US server
 #define PROCESSING_URL	"https://cloud-westus.ocrsdk.com/processImage?exportFormat=txt&language=English,Hebrew"
@@ -90,6 +90,7 @@ bool SG_OCR(wstring ImageFile, wstring ResultFile)
 		if (res != CURLE_OK)
 		{
 			WriteLogFile(L"Error: curl_easy_perform() failed: %S", curl_easy_strerror(res));
+			return false;
 		}
 		else
 		{
