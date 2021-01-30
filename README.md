@@ -8,6 +8,9 @@ ABBYY OCR Demo is a Command Line based software component created for the purpos
 ### Video Demo ###
 [![Demo Video](http://i3.ytimg.com/vi/UwGeNdNocRs/hqdefault.jpg)](https://youtu.be/UwGeNdNocRs)
 
+## Featured Article ##
+[Code Project](https://www.codeproject.com/Articles/5293543/OCR-using-Cplusplus)
+
 ## Before using
 To try out the OCR technology using this demo, request ABBYY Mobile Capture trial version on [ABBYY Cloud OCR SDK](https://cloud.ocrsdk.com/Account/Register).
 Make sure to replace the following lines:
