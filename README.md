@@ -5,8 +5,11 @@ ABBYY® Cloud OCR SDK is a web-based document processing service that will enhan
 
 ABBYY OCR Demo is a Command Line based software component created for the purpose of demonstration of the ABBYY OCR SDK using C++ (Visual Studio C++) and LibCurl.
 
-### Video Demo ###
+### Video Demos ###
 [![Demo Video](http://i3.ytimg.com/vi/UwGeNdNocRs/hqdefault.jpg)](https://youtu.be/UwGeNdNocRs)
+
+[![Demo Video](http://i3.ytimg.com/vi/UwGeNdNocRs/hqdefault.jpg)](https://youtu.be/sWspD-MtzZo)
+
 
 ## Featured Article ##
 [Code Project](https://www.codeproject.com/Articles/5293543/OCR-using-Cplusplus)
