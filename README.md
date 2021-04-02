@@ -1,3 +1,6 @@
+## Featured Article ##
+[Code Project](https://www.codeproject.com/Articles/5293543/OCR-using-Cplusplus)
+
 # ABBYY OCR Demo
 ABBYY® Cloud OCR SDK is a web-based document processing service that will enhance your enterprise software systems, SaaS platforms, or your mobile apps with the ability to convert documents and utilize textual information from scans, PDFs, document images, smartphone photos, or screenshots.
 
@@ -11,8 +14,6 @@ ABBYY OCR Demo is a Command Line based software component created for the purpos
 [![Demo Video](http://i3.ytimg.com/vi/UwGeNdNocRs/hqdefault.jpg)](https://youtu.be/sWspD-MtzZo)
 
 
-## Featured Article ##
-[Code Project](https://www.codeproject.com/Articles/5293543/OCR-using-Cplusplus)
 
 ## Before using
 To try out the OCR technology using this demo, request ABBYY Mobile Capture trial version on [ABBYY Cloud OCR SDK](https://cloud.ocrsdk.com/Account/Register).
