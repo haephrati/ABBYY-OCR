@@ -31,6 +31,11 @@
 #pragma comment(lib, "libcurl_a.lib")
 #pragma comment(lib, "Shlwapi.lib")
 #pragma comment(lib, "Shcore.lib")
+#ifdef _DEBUG
+#pragma comment(lib, "libcurl_a_debug.lib")
+#else
+#pragma comment(lib, "libcurl_a.lib")
+#endif
 // DirectX
 #include <d3d9.h>
 #include <d3d11.h>

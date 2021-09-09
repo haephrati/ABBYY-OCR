@@ -77,3 +77,13 @@
 
 30.01.2021 11:34: OCR Completed
 
+09.09.2021 17:05: Welcome to ABBYYOCR.exe
+
+09.09.2021 17:05: C:\Users\micha\source\repos\ABBYY-OCR\Release\ABBYYOCR.exe <image file> <output file>
+
+
+09.09.2021 17:05: Welcome to ABBYYOCR.exe
+
+09.09.2021 17:05: C:\Users\micha\source\repos\ABBYY-OCR\Debug\ABBYYOCR.exe <image file> <output file>
+
+
